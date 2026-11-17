@@ -1,0 +1,14 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.env*
+!.env.example
+android/.gradle/
+android/local.properties
+android/**/build/
+*.keystore
+*.jks
+
+.npm-cache/
+.playwright-cli/

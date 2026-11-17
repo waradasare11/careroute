@@ -1,0 +1,5393 @@
+{
+  "retrievedAt": "2026-11-17",
+  "entries": [
+    {
+      "title": "Abdominal aortic aneurysm",
+      "url": "https://www.nhs.uk/conditions/abdominal-aortic-aneurysm/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acanthosis nigricans",
+      "url": "https://www.nhs.uk/conditions/acanthosis-nigricans/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Achalasia",
+      "url": "https://www.nhs.uk/conditions/achalasia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acid and chemical burns",
+      "url": "https://www.nhs.uk/conditions/acid-and-chemical-burns/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acid reflux in babies, see Reflux in babies",
+      "url": "https://www.nhs.uk/conditions/reflux-in-babies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acid reflux, see Heartburn and acid reflux",
+      "url": "https://www.nhs.uk/conditions/heartburn-and-acid-reflux/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acne",
+      "url": "https://www.nhs.uk/conditions/acne/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acoustic neuroma (vestibular schwannoma)",
+      "url": "https://www.nhs.uk/conditions/acoustic-neuroma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acromegaly",
+      "url": "https://www.nhs.uk/conditions/acromegaly/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Actinic keratoses (solar keratoses)",
+      "url": "https://www.nhs.uk/conditions/actinic-keratoses/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Actinomycosis",
+      "url": "https://www.nhs.uk/conditions/actinomycosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute cholecystitis",
+      "url": "https://www.nhs.uk/conditions/acute-cholecystitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute kidney injury (AKI)",
+      "url": "https://www.nhs.uk/conditions/acute-kidney-injury/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute lymphoblastic leukaemia",
+      "url": "https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute myeloid leukaemia",
+      "url": "https://www.nhs.uk/conditions/acute-myeloid-leukaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute pancreatitis",
+      "url": "https://www.nhs.uk/conditions/acute-pancreatitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acute respiratory distress syndrome (ARDS)",
+      "url": "https://www.nhs.uk/conditions/acute-respiratory-distress-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Addison's disease",
+      "url": "https://www.nhs.uk/conditions/addisons-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Adenomyosis",
+      "url": "https://www.nhs.uk/conditions/adenomyosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "ADHD in adults",
+      "url": "https://www.nhs.uk/conditions/adhd-adults/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "ADHD in children and young people",
+      "url": "https://www.nhs.uk/conditions/adhd-children-teenagers/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Age-related macular degeneration (AMD)",
+      "url": "https://www.nhs.uk/conditions/age-related-macular-degeneration-amd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Albinism",
+      "url": "https://www.nhs.uk/conditions/albinism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alcohol poisoning",
+      "url": "https://www.nhs.uk/conditions/alcohol-poisoning/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alcohol-related liver disease (ARLD)",
+      "url": "https://www.nhs.uk/conditions/alcohol-related-liver-disease-arld/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alcohol-use disorder",
+      "url": "https://www.nhs.uk/conditions/alcohol-use-disorder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Allergic rhinitis",
+      "url": "https://www.nhs.uk/conditions/allergic-rhinitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Allergies",
+      "url": "https://www.nhs.uk/conditions/allergies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Altitude sickness",
+      "url": "https://www.nhs.uk/conditions/altitude-sickness/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alzheimer's disease",
+      "url": "https://www.nhs.uk/conditions/alzheimers-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amblyopia, see Lazy eye",
+      "url": "https://www.nhs.uk/conditions/lazy-eye/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amyloidosis",
+      "url": "https://www.nhs.uk/conditions/amyloidosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anabolic steroid misuse",
+      "url": "https://www.nhs.uk/conditions/anabolic-steroid-misuse/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anaemia (iron deficiency), see Iron deficiency anaemia",
+      "url": "https://www.nhs.uk/conditions/iron-deficiency-anaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anaemia (vitamin B12 or folate deficiency), see Vitamin B12 or folate deficiency anaemia",
+      "url": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anal cancer",
+      "url": "https://www.nhs.uk/conditions/anal-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anal fissure",
+      "url": "https://www.nhs.uk/conditions/anal-fissure/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anal fistula",
+      "url": "https://www.nhs.uk/conditions/anal-fistula/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anaphylaxis",
+      "url": "https://www.nhs.uk/conditions/anaphylaxis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Androgen insensitivity syndrome",
+      "url": "https://www.nhs.uk/conditions/androgen-insensitivity-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aneurysm (brain), see Brain aneurysm",
+      "url": "https://www.nhs.uk/conditions/brain-aneurysm/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Angelman syndrome",
+      "url": "https://www.nhs.uk/conditions/angelman-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Angina",
+      "url": "https://www.nhs.uk/conditions/angina/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Angioedema",
+      "url": "https://www.nhs.uk/conditions/angioedema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Animal and human bites",
+      "url": "https://www.nhs.uk/conditions/animal-and-human-bites/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ankles (swollen), see Swollen ankles, feet and legs (oedema)",
+      "url": "https://www.nhs.uk/conditions/oedema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ankylosing spondylitis",
+      "url": "https://www.nhs.uk/conditions/ankylosing-spondylitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antiphospholipid syndrome (APS)",
+      "url": "https://www.nhs.uk/conditions/antiphospholipid-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aphasia",
+      "url": "https://www.nhs.uk/conditions/aphasia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Appendicitis",
+      "url": "https://www.nhs.uk/conditions/appendicitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Arrhythmia, see Heart rhythm problems (arrhythmia)",
+      "url": "https://www.nhs.uk/conditions/arrhythmia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Arthritis",
+      "url": "https://www.nhs.uk/conditions/arthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Asbestosis",
+      "url": "https://www.nhs.uk/conditions/asbestosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aspergillosis",
+      "url": "https://www.nhs.uk/conditions/aspergillosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Asthma",
+      "url": "https://www.nhs.uk/conditions/asthma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Astigmatism",
+      "url": "https://www.nhs.uk/conditions/astigmatism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ataxia",
+      "url": "https://www.nhs.uk/conditions/ataxia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Atherosclerosis",
+      "url": "https://www.nhs.uk/conditions/atherosclerosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Athlete's foot",
+      "url": "https://www.nhs.uk/conditions/athletes-foot/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Atopic eczema",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Atrial fibrillation",
+      "url": "https://www.nhs.uk/conditions/atrial-fibrillation/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Auditory processing disorder (APD)",
+      "url": "https://www.nhs.uk/conditions/auditory-processing-disorder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Autism",
+      "url": "https://www.nhs.uk/conditions/autism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Autosomal dominant polycystic kidney disease",
+      "url": "https://www.nhs.uk/conditions/autosomal-dominant-polycystic-kidney-disease-adpkd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Autosomal recessive polycystic kidney disease",
+      "url": "https://www.nhs.uk/conditions/autosomal-recessive-polycystic-kidney-disease-arpkd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Avian flu, see Bird flu",
+      "url": "https://www.nhs.uk/conditions/bird-flu/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Back pain",
+      "url": "https://www.nhs.uk/conditions/back-pain/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bacterial vaginosis",
+      "url": "https://www.nhs.uk/conditions/bacterial-vaginosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Baker's cyst",
+      "url": "https://www.nhs.uk/conditions/bakers-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Balanitis",
+      "url": "https://www.nhs.uk/conditions/balanitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bartholin's cyst",
+      "url": "https://www.nhs.uk/conditions/bartholins-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bedbugs",
+      "url": "https://www.nhs.uk/conditions/bedbugs/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Behçet's disease",
+      "url": "https://www.nhs.uk/conditions/behcets-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bell's palsy",
+      "url": "https://www.nhs.uk/conditions/bells-palsy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Benign brain tumours, see Non-cancerous (benign) brain tumours",
+      "url": "https://www.nhs.uk/conditions/non-cancerous-benign-brain-tumours/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Benign prostate enlargement, see Enlarged prostate",
+      "url": "https://www.nhs.uk/conditions/enlarged-prostate/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bile duct cancer (cholangiocarcinoma)",
+      "url": "https://www.nhs.uk/conditions/bile-duct-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bilharzia, see Schistosomiasis (bilharzia)",
+      "url": "https://www.nhs.uk/conditions/schistosomiasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Birthmarks",
+      "url": "https://www.nhs.uk/conditions/birthmarks/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Black eye",
+      "url": "https://www.nhs.uk/conditions/black-eye/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bladder cancer",
+      "url": "https://www.nhs.uk/conditions/bladder-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bladder pain syndrome (BPS)",
+      "url": "https://www.nhs.uk/conditions/bladder-pain-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bladder stones",
+      "url": "https://www.nhs.uk/conditions/bladder-stones/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Blepharitis",
+      "url": "https://www.nhs.uk/conditions/blepharitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Blisters",
+      "url": "https://www.nhs.uk/conditions/blisters/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Blood pressure (high), see High blood pressure",
+      "url": "https://www.nhs.uk/conditions/high-blood-pressure/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Blood pressure (low), see Low blood pressure (hypotension)",
+      "url": "https://www.nhs.uk/conditions/low-blood-pressure-hypotension/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Boils",
+      "url": "https://www.nhs.uk/conditions/boils/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bone cancer",
+      "url": "https://www.nhs.uk/conditions/bone-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bone cyst",
+      "url": "https://www.nhs.uk/conditions/bone-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Botulism",
+      "url": "https://www.nhs.uk/conditions/botulism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bowel cancer",
+      "url": "https://www.nhs.uk/conditions/bowel-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bowel incontinence",
+      "url": "https://www.nhs.uk/conditions/bowel-incontinence/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bowel polyps",
+      "url": "https://www.nhs.uk/conditions/bowel-polyps/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bowen's disease",
+      "url": "https://www.nhs.uk/conditions/bowens-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brachycephaly and plagiocephaly, see Flat head syndrome (plagiocephaly and brachycephaly)",
+      "url": "https://www.nhs.uk/conditions/flat-head-syndrome-plagiocephaly-brachycephaly/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brain abscess",
+      "url": "https://www.nhs.uk/conditions/brain-abscess/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brain haemorrhage, see Subarachnoid haemorrhage",
+      "url": "https://www.nhs.uk/conditions/subarachnoid-haemorrhage/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brain tumours",
+      "url": "https://www.nhs.uk/conditions/brain-tumours/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Breast abscess",
+      "url": "https://www.nhs.uk/conditions/breast-abscess/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Breast cancer in men",
+      "url": "https://www.nhs.uk/conditions/breast-cancer-in-men/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Breast cancer in women",
+      "url": "https://www.nhs.uk/conditions/breast-cancer-in-women/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken ankle",
+      "url": "https://www.nhs.uk/conditions/broken-ankle/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken arm or wrist",
+      "url": "https://www.nhs.uk/conditions/broken-arm-or-wrist/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken collarbone",
+      "url": "https://www.nhs.uk/conditions/broken-collarbone/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken finger or thumb",
+      "url": "https://www.nhs.uk/conditions/broken-finger/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken hip",
+      "url": "https://www.nhs.uk/conditions/broken-hip/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken leg",
+      "url": "https://www.nhs.uk/conditions/broken-leg/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken nose",
+      "url": "https://www.nhs.uk/conditions/broken-nose/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken or bruised ribs",
+      "url": "https://www.nhs.uk/conditions/broken-or-bruised-ribs/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Broken toe",
+      "url": "https://www.nhs.uk/conditions/broken-toe/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bronchiectasis",
+      "url": "https://www.nhs.uk/conditions/bronchiectasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bronchiolitis",
+      "url": "https://www.nhs.uk/conditions/bronchiolitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bronchitis",
+      "url": "https://www.nhs.uk/conditions/bronchitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brucellosis",
+      "url": "https://www.nhs.uk/conditions/brucellosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brugada syndrome",
+      "url": "https://www.nhs.uk/conditions/brugada-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bullous pemphigoid",
+      "url": "https://www.nhs.uk/conditions/bullous-pemphigoid/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bunions",
+      "url": "https://www.nhs.uk/conditions/bunions/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Burns and scalds",
+      "url": "https://www.nhs.uk/conditions/burns-and-scalds/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bursitis",
+      "url": "https://www.nhs.uk/conditions/bursitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cancer",
+      "url": "https://www.nhs.uk/conditions/cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carbon monoxide poisoning",
+      "url": "https://www.nhs.uk/conditions/carbon-monoxide-poisoning/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cardiomyopathy",
+      "url": "https://www.nhs.uk/conditions/cardiomyopathy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cardiovascular disease",
+      "url": "https://www.nhs.uk/conditions/cardiovascular-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carpal tunnel syndrome",
+      "url": "https://www.nhs.uk/conditions/carpal-tunnel-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cataracts in adults",
+      "url": "https://www.nhs.uk/conditions/cataracts/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Catarrh",
+      "url": "https://www.nhs.uk/conditions/catarrh/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cavernoma",
+      "url": "https://www.nhs.uk/conditions/cavernoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cellulitis",
+      "url": "https://www.nhs.uk/conditions/cellulitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cerebral palsy",
+      "url": "https://www.nhs.uk/conditions/cerebral-palsy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cervical cancer",
+      "url": "https://www.nhs.uk/conditions/cervical-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cervical spondylosis",
+      "url": "https://www.nhs.uk/conditions/cervical-spondylosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Charcot-Marie-Tooth disease",
+      "url": "https://www.nhs.uk/conditions/charcot-marie-tooth-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Charles Bonnet syndrome",
+      "url": "https://www.nhs.uk/conditions/charles-bonnet-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chest infection",
+      "url": "https://www.nhs.uk/conditions/chest-infection/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chiari malformation",
+      "url": "https://www.nhs.uk/conditions/chiari-malformation/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chickenpox",
+      "url": "https://www.nhs.uk/conditions/chickenpox/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chilblains",
+      "url": "https://www.nhs.uk/conditions/chilblains/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Childhood cataracts",
+      "url": "https://www.nhs.uk/conditions/childhood-cataracts/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chipped, broken or cracked tooth",
+      "url": "https://www.nhs.uk/conditions/chipped-broken-or-cracked-tooth/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chlamydia",
+      "url": "https://www.nhs.uk/conditions/chlamydia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cholera",
+      "url": "https://www.nhs.uk/conditions/cholera/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cholesteatoma",
+      "url": "https://www.nhs.uk/conditions/cholesteatoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cholesterol (high), see High cholesterol",
+      "url": "https://www.nhs.uk/conditions/high-cholesterol/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic fatigue syndrome (ME/CFS), see Myalgic encephalomyelitis or chronic fatigue syndrome (ME/CFS)",
+      "url": "https://www.nhs.uk/conditions/chronic-fatigue-syndrome-cfs/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic kidney disease",
+      "url": "https://www.nhs.uk/conditions/kidney-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic lymphocytic leukaemia",
+      "url": "https://www.nhs.uk/conditions/chronic-lymphocytic-leukaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic myeloid leukaemia",
+      "url": "https://www.nhs.uk/conditions/chronic-myeloid-leukaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic obstructive pulmonary disease (COPD)",
+      "url": "https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic pancreatitis",
+      "url": "https://www.nhs.uk/conditions/chronic-pancreatitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chronic traumatic encephalopathy",
+      "url": "https://www.nhs.uk/conditions/chronic-traumatic-encephalopathy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cirrhosis",
+      "url": "https://www.nhs.uk/conditions/cirrhosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "CJD, see Creutzfeldt-Jakob disease",
+      "url": "https://www.nhs.uk/conditions/creutzfeldt-jakob-disease-cjd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cleft lip and palate",
+      "url": "https://www.nhs.uk/conditions/cleft-lip-and-palate/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clostridioides difficile (C. diff) infection",
+      "url": "https://www.nhs.uk/conditions/c-difficile/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clubfoot",
+      "url": "https://www.nhs.uk/conditions/club-foot/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cluster headaches",
+      "url": "https://www.nhs.uk/conditions/cluster-headaches/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Coccyx pain, see Tailbone (coccyx) pain",
+      "url": "https://www.nhs.uk/conditions/tailbone-coccyx-pain/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Coeliac disease",
+      "url": "https://www.nhs.uk/conditions/coeliac-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cold sores",
+      "url": "https://www.nhs.uk/conditions/cold-sores/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Colic",
+      "url": "https://www.nhs.uk/conditions/colic/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Colour vision deficiency (colour blindness)",
+      "url": "https://www.nhs.uk/conditions/colour-vision-deficiency/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Common cold",
+      "url": "https://www.nhs.uk/conditions/common-cold/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Compartment syndrome",
+      "url": "https://www.nhs.uk/conditions/compartment-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Complex regional pain syndrome",
+      "url": "https://www.nhs.uk/conditions/complex-regional-pain-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Concussion, see Head injury and concussion",
+      "url": "https://www.nhs.uk/conditions/head-injury-and-concussion/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Congenital heart disease",
+      "url": "https://www.nhs.uk/conditions/congenital-heart-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Congenital hip dislocation, see Developmental dysplasia of the hip",
+      "url": "https://www.nhs.uk/conditions/developmental-dysplasia-of-the-hip/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Conjunctivitis",
+      "url": "https://www.nhs.uk/conditions/conjunctivitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Constipation",
+      "url": "https://www.nhs.uk/conditions/constipation/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Contact dermatitis",
+      "url": "https://www.nhs.uk/conditions/contact-dermatitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Corns and calluses",
+      "url": "https://www.nhs.uk/conditions/corns-and-calluses/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Coronary heart disease",
+      "url": "https://www.nhs.uk/conditions/coronary-heart-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Coronavirus, see COVID-19",
+      "url": "https://www.nhs.uk/conditions/covid-19/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Corticobasal degeneration",
+      "url": "https://www.nhs.uk/conditions/corticobasal-degeneration/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Costochondritis",
+      "url": "https://www.nhs.uk/conditions/costochondritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cradle cap",
+      "url": "https://www.nhs.uk/conditions/cradle-cap/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Craniosynostosis",
+      "url": "https://www.nhs.uk/conditions/craniosynostosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Crohn's disease",
+      "url": "https://www.nhs.uk/conditions/crohns-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Croup",
+      "url": "https://www.nhs.uk/conditions/croup/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cushing's syndrome",
+      "url": "https://www.nhs.uk/conditions/cushings-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cuts and grazes",
+      "url": "https://www.nhs.uk/conditions/cuts-and-grazes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cyclical vomiting syndrome",
+      "url": "https://www.nhs.uk/conditions/cyclical-vomiting-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cyclospora",
+      "url": "https://www.nhs.uk/conditions/cyclospora/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cystic fibrosis",
+      "url": "https://www.nhs.uk/conditions/cystic-fibrosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cystitis, see Urinary tract infections (UTIs)",
+      "url": "https://www.nhs.uk/conditions/urinary-tract-infections-utis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cytomegalovirus (CMV)",
+      "url": "https://www.nhs.uk/conditions/cytomegalovirus-cmv/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dandruff",
+      "url": "https://www.nhs.uk/conditions/dandruff/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Deafness, see Hearing loss",
+      "url": "https://www.nhs.uk/conditions/hearing-loss/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dehydration",
+      "url": "https://www.nhs.uk/conditions/dehydration/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dementia",
+      "url": "https://www.nhs.uk/conditions/dementia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dementia (frontotemporal), see Frontotemporal dementia",
+      "url": "https://www.nhs.uk/conditions/frontotemporal-dementia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dementia (vascular), see Vascular dementia",
+      "url": "https://www.nhs.uk/conditions/vascular-dementia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dementia with Lewy bodies",
+      "url": "https://www.nhs.uk/conditions/dementia-with-lewy-bodies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dengue",
+      "url": "https://www.nhs.uk/conditions/dengue/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dental abscess",
+      "url": "https://www.nhs.uk/conditions/dental-abscess/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Detached retina (retinal detachment)",
+      "url": "https://www.nhs.uk/conditions/detached-retina-retinal-detachment/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Developmental co-ordination disorder (dyspraxia) in adults, see Dyspraxia in adults",
+      "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Developmental co-ordination disorder (dyspraxia) in children",
+      "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetes",
+      "url": "https://www.nhs.uk/conditions/diabetes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetes (type 1), see Type 1 diabetes",
+      "url": "https://www.nhs.uk/conditions/type-1-diabetes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetes (type 2), see Type 2 diabetes",
+      "url": "https://www.nhs.uk/conditions/type-2-diabetes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetes in pregnancy, see Gestational diabetes",
+      "url": "https://www.nhs.uk/conditions/gestational-diabetes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetes insipidus",
+      "url": "https://www.nhs.uk/conditions/diabetes-insipidus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetic ketoacidosis",
+      "url": "https://www.nhs.uk/conditions/diabetic-ketoacidosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diabetic retinopathy",
+      "url": "https://www.nhs.uk/conditions/diabetic-retinopathy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Differences in sex development",
+      "url": "https://www.nhs.uk/conditions/differences-in-sex-development/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "DiGeorge syndrome (22q11 deletion)",
+      "url": "https://www.nhs.uk/conditions/digeorge-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diphtheria",
+      "url": "https://www.nhs.uk/conditions/diphtheria/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Discoid eczema",
+      "url": "https://www.nhs.uk/conditions/discoid-eczema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dislocated kneecap",
+      "url": "https://www.nhs.uk/conditions/dislocated-kneecap/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dislocated shoulder",
+      "url": "https://www.nhs.uk/conditions/dislocated-shoulder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diverticular disease and diverticulitis",
+      "url": "https://www.nhs.uk/conditions/diverticular-disease-and-diverticulitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Down's syndrome",
+      "url": "https://www.nhs.uk/conditions/downs-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dupuytren's contracture",
+      "url": "https://www.nhs.uk/conditions/dupuytrens-contracture/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "DVT (deep vein thrombosis)",
+      "url": "https://www.nhs.uk/conditions/deep-vein-thrombosis-dvt/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dwarfism, see Restricted growth (dwarfism)",
+      "url": "https://www.nhs.uk/conditions/restricted-growth/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dysarthria (difficulty speaking)",
+      "url": "https://www.nhs.uk/conditions/dysarthria/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dysentery",
+      "url": "https://www.nhs.uk/conditions/dysentery/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dyslexia in adults",
+      "url": "https://www.nhs.uk/conditions/dyslexia-in-adults/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dyslexia in children",
+      "url": "https://www.nhs.uk/conditions/dyslexia-in-children/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dystonia",
+      "url": "https://www.nhs.uk/conditions/dystonia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ear infections",
+      "url": "https://www.nhs.uk/conditions/ear-infections/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eardrum (burst), see Perforated eardrum",
+      "url": "https://www.nhs.uk/conditions/perforated-eardrum/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Early or delayed puberty",
+      "url": "https://www.nhs.uk/conditions/early-or-delayed-puberty/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Early or premature menopause",
+      "url": "https://www.nhs.uk/conditions/early-or-premature-menopause/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Earwax build-up",
+      "url": "https://www.nhs.uk/conditions/earwax-build-up/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ebola virus disease",
+      "url": "https://www.nhs.uk/conditions/ebola/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ectopic pregnancy",
+      "url": "https://www.nhs.uk/conditions/ectopic-pregnancy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ectropion",
+      "url": "https://www.nhs.uk/conditions/ectropion/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eczema (varicose), see Varicose eczema",
+      "url": "https://www.nhs.uk/conditions/varicose-eczema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Edwards' syndrome (trisomy 18)",
+      "url": "https://www.nhs.uk/conditions/edwards-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ehlers-Danlos syndromes (EDS)",
+      "url": "https://www.nhs.uk/conditions/ehlers-danlos-syndromes-eds/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ejaculation problems",
+      "url": "https://www.nhs.uk/conditions/ejaculation-problems/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Encephalitis",
+      "url": "https://www.nhs.uk/conditions/encephalitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Endocarditis",
+      "url": "https://www.nhs.uk/conditions/endocarditis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Endometrial cancer, see Womb (uterus) cancer",
+      "url": "https://www.nhs.uk/conditions/womb-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Endometriosis",
+      "url": "https://www.nhs.uk/conditions/endometriosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Epidermolysis bullosa",
+      "url": "https://www.nhs.uk/conditions/epidermolysis-bullosa/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Epididymitis",
+      "url": "https://www.nhs.uk/conditions/epididymitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Epiglottitis",
+      "url": "https://www.nhs.uk/conditions/epiglottitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Epilepsy",
+      "url": "https://www.nhs.uk/conditions/epilepsy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erectile dysfunction (impotence)",
+      "url": "https://www.nhs.uk/conditions/erection-problems-erectile-dysfunction/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erythema multiforme",
+      "url": "https://www.nhs.uk/conditions/erythema-multiforme/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erythema nodosum",
+      "url": "https://www.nhs.uk/conditions/erythema-nodosum/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erythrocytosis",
+      "url": "https://www.nhs.uk/conditions/erythrocytosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erythromelalgia",
+      "url": "https://www.nhs.uk/conditions/erythromelalgia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Excessive daytime sleepiness (hypersomnia)",
+      "url": "https://www.nhs.uk/conditions/excessive-daytime-sleepiness-hypersomnia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Excessive sweating (hyperhidrosis)",
+      "url": "https://www.nhs.uk/conditions/excessive-sweating-hyperhidrosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eye cancer",
+      "url": "https://www.nhs.uk/conditions/eye-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eye cancer in children, see Retinoblastoma",
+      "url": "https://www.nhs.uk/conditions/retinoblastoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eye infection (herpes), see Herpes simplex eye infections",
+      "url": "https://www.nhs.uk/conditions/herpes-simplex-eye-infections/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eye injuries",
+      "url": "https://www.nhs.uk/conditions/eye-injuries/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Face blindness, see Prosopagnosia (face blindness)",
+      "url": "https://www.nhs.uk/conditions/face-blindness/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Falls",
+      "url": "https://www.nhs.uk/conditions/falls/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Febrile seizures",
+      "url": "https://www.nhs.uk/conditions/febrile-seizures/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Female genital mutilation (FGM)",
+      "url": "https://www.nhs.uk/conditions/female-genital-mutilation-fgm/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Femoral hernia",
+      "url": "https://www.nhs.uk/conditions/femoral-hernia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fetal alcohol spectrum disorder",
+      "url": "https://www.nhs.uk/conditions/fetal-alcohol-spectrum-disorder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fibroids",
+      "url": "https://www.nhs.uk/conditions/fibroids/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fibromyalgia",
+      "url": "https://www.nhs.uk/conditions/fibromyalgia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Flat feet",
+      "url": "https://www.nhs.uk/conditions/flat-feet/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Flu",
+      "url": "https://www.nhs.uk/conditions/flu/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Food allergy",
+      "url": "https://www.nhs.uk/conditions/food-allergy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Food intolerance",
+      "url": "https://www.nhs.uk/conditions/food-intolerance/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Food poisoning",
+      "url": "https://www.nhs.uk/conditions/food-poisoning/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Foot drop",
+      "url": "https://www.nhs.uk/conditions/foot-drop/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Foreskin problems, see Tight foreskin (phimosis)",
+      "url": "https://www.nhs.uk/conditions/phimosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Frostbite",
+      "url": "https://www.nhs.uk/conditions/frostbite/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Frozen shoulder",
+      "url": "https://www.nhs.uk/conditions/frozen-shoulder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Functional neurological disorder, see Medically unexplained symptoms",
+      "url": "https://www.nhs.uk/conditions/medically-unexplained-symptoms/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fungal nail infection",
+      "url": "https://www.nhs.uk/conditions/fungal-nail-infection/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gallbladder cancer",
+      "url": "https://www.nhs.uk/conditions/gallbladder-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gallstones",
+      "url": "https://www.nhs.uk/conditions/gallstones/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ganglion cyst",
+      "url": "https://www.nhs.uk/conditions/ganglion-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gangrene",
+      "url": "https://www.nhs.uk/conditions/gangrene/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gastritis",
+      "url": "https://www.nhs.uk/conditions/gastritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gastroparesis",
+      "url": "https://www.nhs.uk/conditions/gastroparesis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gender dysphoria and incongruence",
+      "url": "https://www.nhs.uk/conditions/gender-dysphoria-and-incongruence/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Genital herpes",
+      "url": "https://www.nhs.uk/conditions/genital-herpes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Genital warts",
+      "url": "https://www.nhs.uk/conditions/genital-warts/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "German measles, see Rubella (german measles)",
+      "url": "https://www.nhs.uk/conditions/rubella/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Giant cell arteritis, see Temporal arteritis",
+      "url": "https://www.nhs.uk/conditions/temporal-arteritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Giardia, see Giardiasis",
+      "url": "https://www.nhs.uk/conditions/giardiasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gilbert's syndrome",
+      "url": "https://www.nhs.uk/conditions/gilberts-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Glandular fever",
+      "url": "https://www.nhs.uk/conditions/glandular-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Glaucoma",
+      "url": "https://www.nhs.uk/conditions/glaucoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Glomerulonephritis",
+      "url": "https://www.nhs.uk/conditions/glomerulonephritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Glue ear",
+      "url": "https://www.nhs.uk/conditions/glue-ear/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Goitre",
+      "url": "https://www.nhs.uk/conditions/goitre/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gonorrhoea",
+      "url": "https://www.nhs.uk/conditions/gonorrhoea/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gout",
+      "url": "https://www.nhs.uk/conditions/gout/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Granuloma annulare",
+      "url": "https://www.nhs.uk/conditions/granuloma-annulare/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Granulomatosis with polyangiitis (GPA)",
+      "url": "https://www.nhs.uk/conditions/granulomatosis-with-polyangiitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Group B strep",
+      "url": "https://www.nhs.uk/conditions/group-b-strep/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Growing pains",
+      "url": "https://www.nhs.uk/conditions/growing-pains/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Guillain-Barré syndrome",
+      "url": "https://www.nhs.uk/conditions/guillain-barre-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gum disease",
+      "url": "https://www.nhs.uk/conditions/gum-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gynaecomastia",
+      "url": "https://www.nhs.uk/conditions/gynaecomastia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Haemochromatosis",
+      "url": "https://www.nhs.uk/conditions/haemochromatosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Haemolytic disease of the fetus and newborn (HDFN)",
+      "url": "https://www.nhs.uk/conditions/rhesus-disease-hdfn/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Haemophilia",
+      "url": "https://www.nhs.uk/conditions/haemophilia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Haemophilus influenzae type b (Hib)",
+      "url": "https://www.nhs.uk/conditions/hib/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Haemorrhoids, see Piles (haemorrhoids)",
+      "url": "https://www.nhs.uk/conditions/piles-haemorrhoids/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hamstring injury",
+      "url": "https://www.nhs.uk/conditions/hamstring-injury/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hand, foot and mouth disease",
+      "url": "https://www.nhs.uk/conditions/hand-foot-mouth-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hantavirus",
+      "url": "https://www.nhs.uk/conditions/hantavirus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hay fever",
+      "url": "https://www.nhs.uk/conditions/hay-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Head lice and nits",
+      "url": "https://www.nhs.uk/conditions/head-lice-and-nits/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Headaches (tension-type), see Tension headaches",
+      "url": "https://www.nhs.uk/conditions/tension-headaches/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heart attack",
+      "url": "https://www.nhs.uk/conditions/heart-attack/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heart block",
+      "url": "https://www.nhs.uk/conditions/heart-block/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heart failure",
+      "url": "https://www.nhs.uk/conditions/heart-failure/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heart valve disease",
+      "url": "https://www.nhs.uk/conditions/heart-valve-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heat exhaustion and heatstroke",
+      "url": "https://www.nhs.uk/conditions/heat-exhaustion-heatstroke/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heat rash (prickly heat)",
+      "url": "https://www.nhs.uk/conditions/heat-rash-prickly-heat/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Heavy periods",
+      "url": "https://www.nhs.uk/conditions/heavy-periods/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Henoch-Schönlein purpura (HSP)",
+      "url": "https://www.nhs.uk/conditions/henoch-schonlein-purpura-hsp/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hepatitis",
+      "url": "https://www.nhs.uk/conditions/hepatitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hepatitis A",
+      "url": "https://www.nhs.uk/conditions/hepatitis-a/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hepatitis B",
+      "url": "https://www.nhs.uk/conditions/hepatitis-b/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hepatitis C",
+      "url": "https://www.nhs.uk/conditions/hepatitis-c/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hereditary haemorrhagic telangiectasia (HHT)",
+      "url": "https://www.nhs.uk/conditions/hereditary-haemorrahagic-telangiectasia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hereditary spastic paraplegia",
+      "url": "https://www.nhs.uk/conditions/hereditary-spastic-paraplegia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hernia",
+      "url": "https://www.nhs.uk/conditions/hernia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hernia (hiatus), see Hiatus hernia",
+      "url": "https://www.nhs.uk/conditions/hiatus-hernia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hernia (umbilical), see Umbilical hernia",
+      "url": "https://www.nhs.uk/conditions/umbilical-hernia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Herpes in babies, see Neonatal herpes (herpes in a baby)",
+      "url": "https://www.nhs.uk/conditions/neonatal-herpes/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Herpetic whitlow (whitlow finger)",
+      "url": "https://www.nhs.uk/conditions/herpetic-whitlow/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hidradenitis suppurativa (HS)",
+      "url": "https://www.nhs.uk/conditions/hidradenitis-suppurativa/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "High blood sugar (hyperglycaemia)",
+      "url": "https://www.nhs.uk/conditions/high-blood-sugar-hyperglycaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hirschsprung's disease",
+      "url": "https://www.nhs.uk/conditions/hirschsprungs-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "HIV and AIDS",
+      "url": "https://www.nhs.uk/conditions/hiv-and-aids/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hives",
+      "url": "https://www.nhs.uk/conditions/hives/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hodgkin lymphoma",
+      "url": "https://www.nhs.uk/conditions/hodgkin-lymphoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Human papillomavirus (HPV)",
+      "url": "https://www.nhs.uk/conditions/human-papilloma-virus-hpv/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Huntington's disease",
+      "url": "https://www.nhs.uk/conditions/huntingtons-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocephalus",
+      "url": "https://www.nhs.uk/conditions/hydrocephalus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydronephrosis",
+      "url": "https://www.nhs.uk/conditions/hydronephrosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hyperacusis, see Noise sensitivity (hyperacusis)",
+      "url": "https://www.nhs.uk/conditions/hyperacusis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hyperparathyroidism",
+      "url": "https://www.nhs.uk/conditions/hyperparathyroidism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hyperthyroidism, see Overactive thyroid (hyperthyroidism)",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hypoglycaemia, see Low blood sugar (hypoglycaemia)",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hypoparathyroidism",
+      "url": "https://www.nhs.uk/conditions/hypoparathyroidism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hypothermia",
+      "url": "https://www.nhs.uk/conditions/hypothermia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hypothyroidism, see Underactive thyroid (hypothyroidism)",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "IBD, see Inflammatory bowel disease (IBD)",
+      "url": "https://www.nhs.uk/conditions/inflammatory-bowel-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ichthyosis",
+      "url": "https://www.nhs.uk/conditions/ichthyosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Idiopathic pulmonary fibrosis",
+      "url": "https://www.nhs.uk/conditions/idiopathic-pulmonary-fibrosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Impetigo",
+      "url": "https://www.nhs.uk/conditions/impetigo/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Incontinence (urinary), see Urinary incontinence",
+      "url": "https://www.nhs.uk/conditions/urinary-incontinence/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Indigestion",
+      "url": "https://www.nhs.uk/conditions/indigestion/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Infected piercings",
+      "url": "https://www.nhs.uk/conditions/infected-piercings/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Infertility",
+      "url": "https://www.nhs.uk/conditions/infertility/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ingrown hairs",
+      "url": "https://www.nhs.uk/conditions/ingrown-hairs/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ingrown toenail",
+      "url": "https://www.nhs.uk/conditions/ingrown-toenail/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Insect bites and stings",
+      "url": "https://www.nhs.uk/conditions/insect-bites-and-stings/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Insomnia",
+      "url": "https://www.nhs.uk/conditions/insomnia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Intracranial hypertension",
+      "url": "https://www.nhs.uk/conditions/intracranial-hypertension/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Irritable bowel syndrome (IBS)",
+      "url": "https://www.nhs.uk/conditions/irritable-bowel-syndrome-ibs/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Japanese encephalitis",
+      "url": "https://www.nhs.uk/conditions/japanese-encephalitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Jaundice",
+      "url": "https://www.nhs.uk/conditions/jaundice/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Jaundice in babies",
+      "url": "https://www.nhs.uk/conditions/jaundice-in-babies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Jaw pain, see Temporomandibular disorder (TMD)",
+      "url": "https://www.nhs.uk/conditions/temporomandibular-disorder-tmd/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Jellyfish and other sea creature stings",
+      "url": "https://www.nhs.uk/conditions/jellyfish-and-other-sea-creature-stings/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Jet lag",
+      "url": "https://www.nhs.uk/conditions/jet-lag/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Joint hypermobility syndrome",
+      "url": "https://www.nhs.uk/conditions/joint-hypermobility-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Kawasaki disease",
+      "url": "https://www.nhs.uk/conditions/kawasaki-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Keloid scars",
+      "url": "https://www.nhs.uk/conditions/keloid-scars/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Keratosis pilaris",
+      "url": "https://www.nhs.uk/conditions/keratosis-pilaris/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Kidney cancer",
+      "url": "https://www.nhs.uk/conditions/kidney-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Kidney infection",
+      "url": "https://www.nhs.uk/conditions/kidney-infection/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Kidney stones",
+      "url": "https://www.nhs.uk/conditions/kidney-stones/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Klinefelter syndrome",
+      "url": "https://www.nhs.uk/conditions/klinefelters-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Knee cartilage damage, see Meniscus tear (knee cartilage damage)",
+      "url": "https://www.nhs.uk/conditions/meniscus-tear/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Knocked-out tooth",
+      "url": "https://www.nhs.uk/conditions/knocked-out-tooth/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Kyphosis",
+      "url": "https://www.nhs.uk/conditions/kyphosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Labial fusion",
+      "url": "https://www.nhs.uk/conditions/labial-fusion/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Labyrinthitis and vestibular neuritis",
+      "url": "https://www.nhs.uk/conditions/labyrinthitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lactose intolerance",
+      "url": "https://www.nhs.uk/conditions/lactose-intolerance/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lambert-Eaton myasthenic syndrome",
+      "url": "https://www.nhs.uk/conditions/lambert-eaton-myasthenic-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Laryngeal cancer",
+      "url": "https://www.nhs.uk/conditions/laryngeal-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Laryngitis",
+      "url": "https://www.nhs.uk/conditions/laryngitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Learning disabilities",
+      "url": "https://www.nhs.uk/conditions/learning-disabilities/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Leg cramps",
+      "url": "https://www.nhs.uk/conditions/leg-cramps/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Leg ulcer, see Venous leg ulcer",
+      "url": "https://www.nhs.uk/conditions/leg-ulcer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Legionnaires' disease",
+      "url": "https://www.nhs.uk/conditions/legionnaires-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Leptospirosis (Weil's disease)",
+      "url": "https://www.nhs.uk/conditions/leptospirosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Leukoplakia",
+      "url": "https://www.nhs.uk/conditions/leukoplakia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lichen planus",
+      "url": "https://www.nhs.uk/conditions/lichen-planus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lichen sclerosus",
+      "url": "https://www.nhs.uk/conditions/lichen-sclerosus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lipoedema",
+      "url": "https://www.nhs.uk/conditions/lipoedema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lipoma",
+      "url": "https://www.nhs.uk/conditions/lipoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Listeriosis",
+      "url": "https://www.nhs.uk/conditions/listeriosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Liver cancer",
+      "url": "https://www.nhs.uk/conditions/liver-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Liver disease",
+      "url": "https://www.nhs.uk/conditions/liver-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Long COVID",
+      "url": "https://www.nhs.uk/conditions/long-covid/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Long QT syndrome",
+      "url": "https://www.nhs.uk/conditions/long-qt-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Long-sightedness",
+      "url": "https://www.nhs.uk/conditions/long-sightedness/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Low sperm count",
+      "url": "https://www.nhs.uk/conditions/low-sperm-count/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Low white blood cell count",
+      "url": "https://www.nhs.uk/conditions/low-white-blood-cell-count/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lung cancer",
+      "url": "https://www.nhs.uk/conditions/lung-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lupus",
+      "url": "https://www.nhs.uk/conditions/lupus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lyme disease",
+      "url": "https://www.nhs.uk/conditions/lyme-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lymphoedema",
+      "url": "https://www.nhs.uk/conditions/lymphoedema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lymphoma (non-Hodgkin, see Non-Hodgkin lymphoma",
+      "url": "https://www.nhs.uk/conditions/non-hodgkin-lymphoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Macular hole",
+      "url": "https://www.nhs.uk/conditions/macular-hole/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Malaria",
+      "url": "https://www.nhs.uk/conditions/malaria/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Male menopause, see The 'male menopause'",
+      "url": "https://www.nhs.uk/conditions/male-menopause/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Malignant brain tumour (brain cancer)",
+      "url": "https://www.nhs.uk/conditions/malignant-brain-tumour/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mallet finger",
+      "url": "https://www.nhs.uk/conditions/mallet-finger/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Malnutrition",
+      "url": "https://www.nhs.uk/conditions/malnutrition/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Marfan syndrome",
+      "url": "https://www.nhs.uk/conditions/marfan-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mastitis",
+      "url": "https://www.nhs.uk/conditions/mastitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mastocytosis",
+      "url": "https://www.nhs.uk/conditions/mastocytosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mastoiditis",
+      "url": "https://www.nhs.uk/conditions/mastoiditis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Measles",
+      "url": "https://www.nhs.uk/conditions/measles/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Melanoma skin cancer",
+      "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Meningitis",
+      "url": "https://www.nhs.uk/conditions/meningitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Menopause and perimenopause",
+      "url": "https://www.nhs.uk/conditions/menopause-and-perimenopause/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mesothelioma",
+      "url": "https://www.nhs.uk/conditions/mesothelioma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Metabolic syndrome",
+      "url": "https://www.nhs.uk/conditions/metabolic-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Middle East respiratory syndrome (MERS)",
+      "url": "https://www.nhs.uk/conditions/middle-east-respiratory-syndrome-mers/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Migraine",
+      "url": "https://www.nhs.uk/conditions/migraine/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Miscarriage",
+      "url": "https://www.nhs.uk/conditions/miscarriage/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Molar pregnancy",
+      "url": "https://www.nhs.uk/conditions/molar-pregnancy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Moles",
+      "url": "https://www.nhs.uk/conditions/moles/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Molluscum contagiosum",
+      "url": "https://www.nhs.uk/conditions/molluscum-contagiosum/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Morton's neuroma",
+      "url": "https://www.nhs.uk/conditions/mortons-neuroma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Motion sickness",
+      "url": "https://www.nhs.uk/conditions/motion-sickness/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Motor neurone disease (MND)",
+      "url": "https://www.nhs.uk/conditions/motor-neurone-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mouth cancer",
+      "url": "https://www.nhs.uk/conditions/mouth-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mouth thrush, see Oral thrush (mouth thrush)",
+      "url": "https://www.nhs.uk/conditions/oral-thrush-mouth-thrush/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mouth ulcers",
+      "url": "https://www.nhs.uk/conditions/mouth-ulcers/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mpox",
+      "url": "https://www.nhs.uk/conditions/mpox/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "MRSA",
+      "url": "https://www.nhs.uk/conditions/mrsa/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mucositis",
+      "url": "https://www.nhs.uk/conditions/mucositis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Multiple sclerosis",
+      "url": "https://www.nhs.uk/conditions/multiple-sclerosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Multiple system atrophy (MSA)",
+      "url": "https://www.nhs.uk/conditions/multiple-system-atrophy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mumps",
+      "url": "https://www.nhs.uk/conditions/mumps/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Muscular dystrophy",
+      "url": "https://www.nhs.uk/conditions/muscular-dystrophy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Myasthenia gravis",
+      "url": "https://www.nhs.uk/conditions/myasthenia-gravis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Myelodysplastic syndrome (MDS)",
+      "url": "https://www.nhs.uk/conditions/myelodysplastic-syndrome-mds/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Myeloma",
+      "url": "https://www.nhs.uk/conditions/myeloma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Myopia, see Short-sightedness (myopia)",
+      "url": "https://www.nhs.uk/conditions/short-sightedness/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Myositis",
+      "url": "https://www.nhs.uk/conditions/myositis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ménière's disease",
+      "url": "https://www.nhs.uk/conditions/menieres-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Narcolepsy",
+      "url": "https://www.nhs.uk/conditions/narcolepsy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nasal and sinus cancer",
+      "url": "https://www.nhs.uk/conditions/nasal-and-sinus-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nasal polyps",
+      "url": "https://www.nhs.uk/conditions/nasal-polyps/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nasopharyngeal cancer",
+      "url": "https://www.nhs.uk/conditions/nasopharyngeal-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Necrotising fasciitis",
+      "url": "https://www.nhs.uk/conditions/necrotising-fasciitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nephrotic syndrome in children",
+      "url": "https://www.nhs.uk/conditions/nephrotic-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Neurofibromatosis type 1 (NF1)",
+      "url": "https://www.nhs.uk/conditions/neurofibromatosis-type-1/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Neurofibromatosis type 2 (NF2)",
+      "url": "https://www.nhs.uk/conditions/neurofibromatosis-type-2/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Neuromyelitis optica (NMO)",
+      "url": "https://www.nhs.uk/conditions/neuromyelitis-optica/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Newborn respiratory distress syndrome",
+      "url": "https://www.nhs.uk/conditions/neonatal-respiratory-distress-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Night terrors and nightmares",
+      "url": "https://www.nhs.uk/conditions/night-terrors/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Non-alcoholic fatty liver disease (NAFLD)",
+      "url": "https://www.nhs.uk/conditions/non-alcoholic-fatty-liver-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Non-allergic rhinitis",
+      "url": "https://www.nhs.uk/conditions/non-allergic-rhinitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Non-melanoma skin cancer",
+      "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Noonan syndrome",
+      "url": "https://www.nhs.uk/conditions/noonan-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Norovirus (vomiting bug)",
+      "url": "https://www.nhs.uk/conditions/norovirus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nosebleed",
+      "url": "https://www.nhs.uk/conditions/nosebleed/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Obesity, see Overweight and obesity in adults",
+      "url": "https://www.nhs.uk/conditions/overweight-and-obesity/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ocular migraine, see Retinal (ocular) migraine",
+      "url": "https://www.nhs.uk/conditions/retinal-ocular-migraine/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Oesophageal atresia and tracheo-oesophageal fistula",
+      "url": "https://www.nhs.uk/conditions/oesophageal-atresia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Oesophageal cancer",
+      "url": "https://www.nhs.uk/conditions/oesophageal-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Orf",
+      "url": "https://www.nhs.uk/conditions/orf/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Osteoarthritis",
+      "url": "https://www.nhs.uk/conditions/osteoarthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Osteomalacia, see Rickets and osteomalacia",
+      "url": "https://www.nhs.uk/conditions/rickets-and-osteomalacia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Osteomyelitis",
+      "url": "https://www.nhs.uk/conditions/osteomyelitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Osteophyte (bone spur)",
+      "url": "https://www.nhs.uk/conditions/osteophyte/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Osteoporosis",
+      "url": "https://www.nhs.uk/conditions/osteoporosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Otosclerosis",
+      "url": "https://www.nhs.uk/conditions/otosclerosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ovarian cancer",
+      "url": "https://www.nhs.uk/conditions/ovarian-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ovarian cyst",
+      "url": "https://www.nhs.uk/conditions/ovarian-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Paget's disease of bone",
+      "url": "https://www.nhs.uk/conditions/pagets-disease-bone/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Paget's disease of the nipple",
+      "url": "https://www.nhs.uk/conditions/pagets-disease-nipple/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pancreatic cancer",
+      "url": "https://www.nhs.uk/conditions/pancreatic-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Parkinson's disease",
+      "url": "https://www.nhs.uk/conditions/parkinsons-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Patau's syndrome",
+      "url": "https://www.nhs.uk/conditions/pataus-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "PCOS, see Polyendocrine metabolic ovarian syndrome (PMOS)",
+      "url": "https://www.nhs.uk/conditions/polyendocrine-metabolic-ovarian-syndrome-pmos/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pelvic inflammatory disease",
+      "url": "https://www.nhs.uk/conditions/pelvic-inflammatory-disease-pid/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pelvic organ prolapse",
+      "url": "https://www.nhs.uk/conditions/pelvic-organ-prolapse/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pemphigus vulgaris",
+      "url": "https://www.nhs.uk/conditions/pemphigus-vulgaris/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Penile cancer",
+      "url": "https://www.nhs.uk/conditions/penile-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peptic ulcer, see Stomach ulcer",
+      "url": "https://www.nhs.uk/conditions/stomach-ulcer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pericarditis",
+      "url": "https://www.nhs.uk/conditions/pericarditis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Periods",
+      "url": "https://www.nhs.uk/conditions/periods/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peripheral arterial disease (PAD)",
+      "url": "https://www.nhs.uk/conditions/peripheral-arterial-disease-pad/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peripheral neuropathy",
+      "url": "https://www.nhs.uk/conditions/peripheral-neuropathy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peritonitis",
+      "url": "https://www.nhs.uk/conditions/peritonitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peyronie's disease",
+      "url": "https://www.nhs.uk/conditions/peyronies-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Phaeochromocytoma",
+      "url": "https://www.nhs.uk/conditions/phaeochromocytoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Phlebitis (superficial thrombophlebitis)",
+      "url": "https://www.nhs.uk/conditions/phlebitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pilonidal sinus",
+      "url": "https://www.nhs.uk/conditions/pilonidal-sinus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pityriasis rosea",
+      "url": "https://www.nhs.uk/conditions/pityriasis-rosea/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pityriasis versicolor",
+      "url": "https://www.nhs.uk/conditions/pityriasis-versicolor/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Plantar fasciitis",
+      "url": "https://www.nhs.uk/conditions/plantar-fasciitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pleurisy",
+      "url": "https://www.nhs.uk/conditions/pleurisy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "PMDD (premenstrual dysphoric disorder)",
+      "url": "https://www.nhs.uk/conditions/pmdd-premenstrual-dysphoric-disorder/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "PMS (premenstrual syndrome)",
+      "url": "https://www.nhs.uk/conditions/pre-menstrual-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pneumonia",
+      "url": "https://www.nhs.uk/conditions/pneumonia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Poisoning",
+      "url": "https://www.nhs.uk/conditions/poisoning/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Polio",
+      "url": "https://www.nhs.uk/conditions/polio/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Polyhydramnios (too much amniotic fluid)",
+      "url": "https://www.nhs.uk/conditions/polyhydramnios/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Polymorphic light eruption",
+      "url": "https://www.nhs.uk/conditions/polymorphic-light-eruption/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Polymyalgia rheumatica",
+      "url": "https://www.nhs.uk/conditions/polymyalgia-rheumatica/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pompholyx (dyshidrotic eczema)",
+      "url": "https://www.nhs.uk/conditions/pompholyx/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Post-herpetic neuralgia",
+      "url": "https://www.nhs.uk/conditions/post-herpetic-neuralgia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Postural orthostatic tachycardia syndrome, see Postural tachycardia syndrome (PoTS)",
+      "url": "https://www.nhs.uk/conditions/postural-tachycardia-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Prader-Willi syndrome",
+      "url": "https://www.nhs.uk/conditions/prader-willi-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pre-eclampsia",
+      "url": "https://www.nhs.uk/conditions/pre-eclampsia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pressure ulcers (pressure sores)",
+      "url": "https://www.nhs.uk/conditions/pressure-sores/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Primary biliary cholangitis (primary biliary cirrhosis)",
+      "url": "https://www.nhs.uk/conditions/primary-biliary-cholangitis-pbc/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Problems swallowing pills",
+      "url": "https://www.nhs.uk/conditions/problems-swallowing-pills/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Progressive supranuclear palsy",
+      "url": "https://www.nhs.uk/conditions/progressive-supranuclear-palsy-psp/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Prostate cancer",
+      "url": "https://www.nhs.uk/conditions/prostate-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Prostatitis",
+      "url": "https://www.nhs.uk/conditions/prostatitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Psoriasis",
+      "url": "https://www.nhs.uk/conditions/psoriasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Psoriatic arthritis",
+      "url": "https://www.nhs.uk/conditions/psoriatic-arthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pubic lice",
+      "url": "https://www.nhs.uk/conditions/pubic-lice/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pudendal neuralgia",
+      "url": "https://www.nhs.uk/conditions/pudendal-neuralgia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pulmonary embolism",
+      "url": "https://www.nhs.uk/conditions/pulmonary-embolism/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pulmonary hypertension",
+      "url": "https://www.nhs.uk/conditions/pulmonary-hypertension/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pyoderma gangrenosum",
+      "url": "https://www.nhs.uk/conditions/pyoderma-gangrenosum/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Q fever",
+      "url": "https://www.nhs.uk/conditions/q-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Quinsy, see Tonsillitis",
+      "url": "https://www.nhs.uk/conditions/tonsillitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rabies",
+      "url": "https://www.nhs.uk/conditions/rabies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Raynaud's",
+      "url": "https://www.nhs.uk/conditions/raynauds/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Reactive arthritis",
+      "url": "https://www.nhs.uk/conditions/reactive-arthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Repetitive strain injury (RSI)",
+      "url": "https://www.nhs.uk/conditions/repetitive-strain-injury-rsi/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Respiratory syncytial virus (RSV)",
+      "url": "https://www.nhs.uk/conditions/respiratory-syncytial-virus-rsv/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Respiratory tract infections (RTIs)",
+      "url": "https://www.nhs.uk/conditions/respiratory-tract-infection/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Restless legs syndrome",
+      "url": "https://www.nhs.uk/conditions/restless-legs-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rett syndrome",
+      "url": "https://www.nhs.uk/conditions/rett-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Reye's syndrome",
+      "url": "https://www.nhs.uk/conditions/reyes-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rheumatic fever",
+      "url": "https://www.nhs.uk/conditions/rheumatic-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rheumatoid arthritis",
+      "url": "https://www.nhs.uk/conditions/rheumatoid-arthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ringworm",
+      "url": "https://www.nhs.uk/conditions/ringworm/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rosacea",
+      "url": "https://www.nhs.uk/conditions/rosacea/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Roseola",
+      "url": "https://www.nhs.uk/conditions/roseola/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Salivary gland stones",
+      "url": "https://www.nhs.uk/conditions/salivary-gland-stones/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sarcoidosis",
+      "url": "https://www.nhs.uk/conditions/sarcoidosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scabies",
+      "url": "https://www.nhs.uk/conditions/scabies/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scarlet fever",
+      "url": "https://www.nhs.uk/conditions/scarlet-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scars",
+      "url": "https://www.nhs.uk/conditions/scars/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sciatica",
+      "url": "https://www.nhs.uk/conditions/sciatica/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scleroderma",
+      "url": "https://www.nhs.uk/conditions/scleroderma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scoliosis",
+      "url": "https://www.nhs.uk/conditions/scoliosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Scurvy",
+      "url": "https://www.nhs.uk/conditions/scurvy/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sepsis",
+      "url": "https://www.nhs.uk/conditions/sepsis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Septic arthritis",
+      "url": "https://www.nhs.uk/conditions/septic-arthritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sexually transmitted infections (STIs)",
+      "url": "https://www.nhs.uk/conditions/sexually-transmitted-infections-stis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Shin splints",
+      "url": "https://www.nhs.uk/conditions/shin-splints/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Shingles",
+      "url": "https://www.nhs.uk/conditions/shingles/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Shoulder impingement",
+      "url": "https://www.nhs.uk/conditions/shoulder-impingement-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sick building syndrome",
+      "url": "https://www.nhs.uk/conditions/sick-building-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sickle cell disease",
+      "url": "https://www.nhs.uk/conditions/sickle-cell-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Silicosis",
+      "url": "https://www.nhs.uk/conditions/silicosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sinusitis (sinus infection)",
+      "url": "https://www.nhs.uk/conditions/sinusitis-sinus-infection/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sjögren's syndrome",
+      "url": "https://www.nhs.uk/conditions/sjogrens-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Skin abscess",
+      "url": "https://www.nhs.uk/conditions/skin-abscess/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Skin cyst",
+      "url": "https://www.nhs.uk/conditions/skin-cyst/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Skin tags",
+      "url": "https://www.nhs.uk/conditions/skin-tags/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Slapped cheek syndrome",
+      "url": "https://www.nhs.uk/conditions/slapped-cheek-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sleep apnoea",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sleep paralysis",
+      "url": "https://www.nhs.uk/conditions/sleep-paralysis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sleepwalking",
+      "url": "https://www.nhs.uk/conditions/sleepwalking/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Slipped disc",
+      "url": "https://www.nhs.uk/conditions/slipped-disc/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Snake bites",
+      "url": "https://www.nhs.uk/conditions/snake-bites/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Soft tissue sarcoma",
+      "url": "https://www.nhs.uk/conditions/soft-tissue-sarcoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Spina bifida",
+      "url": "https://www.nhs.uk/conditions/spina-bifida/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Spinal muscular atrophy (SMA)",
+      "url": "https://www.nhs.uk/conditions/spinal-muscular-atrophy-sma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Spondylolisthesis",
+      "url": "https://www.nhs.uk/conditions/spondylolisthesis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sprains and strains",
+      "url": "https://www.nhs.uk/conditions/sprains-and-strains/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Squint",
+      "url": "https://www.nhs.uk/conditions/squint/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stammering",
+      "url": "https://www.nhs.uk/conditions/stammering/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Staph infection",
+      "url": "https://www.nhs.uk/conditions/staphylococcal-infections/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stevens-Johnson syndrome",
+      "url": "https://www.nhs.uk/conditions/stevens-johnson-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stillbirth",
+      "url": "https://www.nhs.uk/conditions/stillbirth/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stomach cancer",
+      "url": "https://www.nhs.uk/conditions/stomach-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Strep A",
+      "url": "https://www.nhs.uk/conditions/strep-a/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stretch marks",
+      "url": "https://www.nhs.uk/conditions/stretch-marks/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stroke",
+      "url": "https://www.nhs.uk/conditions/stroke/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Stye",
+      "url": "https://www.nhs.uk/conditions/stye/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Subdural haematoma",
+      "url": "https://www.nhs.uk/conditions/subdural-haematoma/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sunburn",
+      "url": "https://www.nhs.uk/conditions/sunburn/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Supraventricular tachycardia (SVT)",
+      "url": "https://www.nhs.uk/conditions/supraventricular-tachycardia-svt/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Swollen arms and hands (oedema)",
+      "url": "https://www.nhs.uk/conditions/swollen-arms-and-hands-oedema/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Syphilis",
+      "url": "https://www.nhs.uk/conditions/syphilis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "TB, see Tuberculosis (TB)",
+      "url": "https://www.nhs.uk/conditions/tuberculosis-tb/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tendonitis",
+      "url": "https://www.nhs.uk/conditions/tendonitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tennis elbow",
+      "url": "https://www.nhs.uk/conditions/tennis-elbow/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Testicular cancer",
+      "url": "https://www.nhs.uk/conditions/testicular-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tetanus",
+      "url": "https://www.nhs.uk/conditions/tetanus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thalassaemia",
+      "url": "https://www.nhs.uk/conditions/thalassaemia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thoracic outlet syndrome",
+      "url": "https://www.nhs.uk/conditions/thoracic-outlet-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Threadworms",
+      "url": "https://www.nhs.uk/conditions/threadworms/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thrombophilia",
+      "url": "https://www.nhs.uk/conditions/thrombophilia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thrush in men and women",
+      "url": "https://www.nhs.uk/conditions/thrush-in-men-and-women/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thyroid cancer",
+      "url": "https://www.nhs.uk/conditions/thyroid-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "TIA, see Transient ischaemic attack (TIA)",
+      "url": "https://www.nhs.uk/conditions/transient-ischaemic-attack-tia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tick-borne encephalitis (TBE)",
+      "url": "https://www.nhs.uk/conditions/tick-borne-encephalitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tics",
+      "url": "https://www.nhs.uk/conditions/tics/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tinnitus",
+      "url": "https://www.nhs.uk/conditions/tinnitus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tongue-tie",
+      "url": "https://www.nhs.uk/conditions/tongue-tie/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tooth decay",
+      "url": "https://www.nhs.uk/conditions/tooth-decay/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tourette syndrome",
+      "url": "https://www.nhs.uk/conditions/tourette-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Toxic shock syndrome",
+      "url": "https://www.nhs.uk/conditions/toxic-shock-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Toxocariasis",
+      "url": "https://www.nhs.uk/conditions/toxocariasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Toxoplasmosis",
+      "url": "https://www.nhs.uk/conditions/toxoplasmosis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Trichomoniasis",
+      "url": "https://www.nhs.uk/conditions/trichomoniasis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Trigeminal neuralgia",
+      "url": "https://www.nhs.uk/conditions/trigeminal-neuralgia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Trigger finger",
+      "url": "https://www.nhs.uk/conditions/trigger-finger/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Turner syndrome",
+      "url": "https://www.nhs.uk/conditions/turner-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Typhoid fever",
+      "url": "https://www.nhs.uk/conditions/typhoid-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Typhus",
+      "url": "https://www.nhs.uk/conditions/typhus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ulcerative colitis",
+      "url": "https://www.nhs.uk/conditions/ulcerative-colitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Undescended testicles",
+      "url": "https://www.nhs.uk/conditions/undescended-testicles/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Urethritis",
+      "url": "https://www.nhs.uk/conditions/urethritis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Uveitis",
+      "url": "https://www.nhs.uk/conditions/uveitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vaginal cancer",
+      "url": "https://www.nhs.uk/conditions/vaginal-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vaginal pain, see Vulvodynia (vulval pain)",
+      "url": "https://www.nhs.uk/conditions/vulvodynia/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vaginismus",
+      "url": "https://www.nhs.uk/conditions/vaginismus/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vaginitis",
+      "url": "https://www.nhs.uk/conditions/vaginitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Varicose veins",
+      "url": "https://www.nhs.uk/conditions/varicose-veins/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vasculitis",
+      "url": "https://www.nhs.uk/conditions/vasculitis/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Verrucas, see Warts and verrucas",
+      "url": "https://www.nhs.uk/conditions/warts-and-verrucas/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vertigo",
+      "url": "https://www.nhs.uk/conditions/vertigo/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vision loss",
+      "url": "https://www.nhs.uk/conditions/vision-loss/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vitiligo",
+      "url": "https://www.nhs.uk/conditions/vitiligo/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Von Willebrand disease",
+      "url": "https://www.nhs.uk/conditions/von-willebrand-disease/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vulval cancer",
+      "url": "https://www.nhs.uk/conditions/vulval-cancer/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Whiplash",
+      "url": "https://www.nhs.uk/conditions/whiplash/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Whooping cough",
+      "url": "https://www.nhs.uk/conditions/whooping-cough/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Wolff-Parkinson-White syndrome",
+      "url": "https://www.nhs.uk/conditions/wolff-parkinson-white-syndrome/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Yellow fever",
+      "url": "https://www.nhs.uk/conditions/yellow-fever/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Zika virus",
+      "url": "https://www.nhs.uk/conditions/zika/",
+      "category": "Conditions & symptoms",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aciclovir (Zovirax)",
+      "url": "https://www.nhs.uk/medicines/aciclovir/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Acrivastine",
+      "url": "https://www.nhs.uk/medicines/acrivastine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Adalimumab",
+      "url": "https://www.nhs.uk/medicines/adalimumab/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alendronic acid",
+      "url": "https://www.nhs.uk/medicines/alendronic-acid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Allopurinol",
+      "url": "https://www.nhs.uk/medicines/allopurinol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Alogliptin",
+      "url": "https://www.nhs.uk/medicines/alogliptin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amitriptyline for depression",
+      "url": "https://www.nhs.uk/medicines/amitriptyline-for-depression/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amitriptyline for pain and migraine",
+      "url": "https://www.nhs.uk/medicines/amitriptyline-for-pain/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amlodipine",
+      "url": "https://www.nhs.uk/medicines/amlodipine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Amoxicillin",
+      "url": "https://www.nhs.uk/medicines/amoxicillin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anastrozole",
+      "url": "https://www.nhs.uk/medicines/anastrozole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antacids",
+      "url": "https://www.nhs.uk/medicines/antacids/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antibiotics",
+      "url": "https://www.nhs.uk/medicines/antibiotics/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Anticoagulant medicines",
+      "url": "https://www.nhs.uk/medicines/anticoagulants/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antidepressants",
+      "url": "https://www.nhs.uk/medicines/antidepressants/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antifungal medicines",
+      "url": "https://www.nhs.uk/medicines/antifungal-medicines/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Antihistamines",
+      "url": "https://www.nhs.uk/medicines/antihistamines/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Apixaban",
+      "url": "https://www.nhs.uk/medicines/apixaban/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aripiprazole",
+      "url": "https://www.nhs.uk/medicines/aripiprazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Aspirin",
+      "url": "https://www.nhs.uk/medicines/aspirin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Atenolol",
+      "url": "https://www.nhs.uk/medicines/atenolol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Atorvastatin",
+      "url": "https://www.nhs.uk/medicines/atorvastatin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Azathioprine",
+      "url": "https://www.nhs.uk/medicines/azathioprine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Azithromycin",
+      "url": "https://www.nhs.uk/medicines/azithromycin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Baclofen",
+      "url": "https://www.nhs.uk/medicines/baclofen/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Beclometasone inhalers",
+      "url": "https://www.nhs.uk/medicines/beclometasone-inhalers/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Beclometasone nasal spray",
+      "url": "https://www.nhs.uk/medicines/beclometasone-nasal-spray/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Beclometasone skin cream",
+      "url": "https://www.nhs.uk/medicines/beclometasone-skin-creams/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bendroflumethiazide",
+      "url": "https://www.nhs.uk/medicines/bendroflumethiazide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Benzoyl peroxide",
+      "url": "https://www.nhs.uk/medicines/benzoyl-peroxide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Benzydamine",
+      "url": "https://www.nhs.uk/medicines/benzydamine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Beta blockers",
+      "url": "https://www.nhs.uk/medicines/beta-blockers/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Betahistine",
+      "url": "https://www.nhs.uk/medicines/betahistine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Betamethasone for eyes, ears and nose",
+      "url": "https://www.nhs.uk/medicines/betamethasone-eyes-ears-and-nose/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Betamethasone for skin",
+      "url": "https://www.nhs.uk/medicines/betamethasone-skin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bimatoprost (Lumigan)",
+      "url": "https://www.nhs.uk/medicines/bimatoprost/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bisacodyl",
+      "url": "https://www.nhs.uk/medicines/bisacodyl/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bismuth subsalicylate, see Pepto-Bismol (bismuth subsalicylate)",
+      "url": "https://www.nhs.uk/medicines/pepto-bismol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bisoprolol",
+      "url": "https://www.nhs.uk/medicines/bisoprolol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Brinzolamide",
+      "url": "https://www.nhs.uk/medicines/brinzolamide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Budesonide inhalers",
+      "url": "https://www.nhs.uk/medicines/budesonide-inhalers/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Bumetanide",
+      "url": "https://www.nhs.uk/medicines/bumetanide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Buprenorphine for pain",
+      "url": "https://www.nhs.uk/medicines/buprenorphine-for-pain/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Buscopan (hyoscine butylbromide)",
+      "url": "https://www.nhs.uk/medicines/buscopan-hyoscine-butylbromide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Calcipotriol",
+      "url": "https://www.nhs.uk/medicines/calcipotriol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Calpol, see Paracetamol for children (Calpol)",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-children/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Candesartan",
+      "url": "https://www.nhs.uk/medicines/candesartan/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cannabis oil (medical cannabis), see Medical cannabis (and cannabis oils)",
+      "url": "https://www.nhs.uk/medicines/medical-cannabis/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carbamazepine (Tegretol)",
+      "url": "https://www.nhs.uk/medicines/carbamazepine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carbimazole",
+      "url": "https://www.nhs.uk/medicines/carbimazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carbocisteine",
+      "url": "https://www.nhs.uk/medicines/carbocisteine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carmellose sodium eye drops",
+      "url": "https://www.nhs.uk/medicines/carmellose-sodium/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Carvedilol",
+      "url": "https://www.nhs.uk/medicines/carvedilol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cefalexin",
+      "url": "https://www.nhs.uk/medicines/cefalexin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cetirizine",
+      "url": "https://www.nhs.uk/medicines/cetirizine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chloramphenicol",
+      "url": "https://www.nhs.uk/medicines/chloramphenicol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chlorhexidine",
+      "url": "https://www.nhs.uk/medicines/chlorhexidine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Chlorphenamine (Piriton)",
+      "url": "https://www.nhs.uk/medicines/chlorphenamine-including-piriton/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cinnarizine",
+      "url": "https://www.nhs.uk/medicines/cinnarizine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ciprofloxacin",
+      "url": "https://www.nhs.uk/medicines/ciprofloxacin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Citalopram",
+      "url": "https://www.nhs.uk/medicines/citalopram/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clarithromycin",
+      "url": "https://www.nhs.uk/medicines/clarithromycin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clarityn, see Loratadine (Clarityn)",
+      "url": "https://www.nhs.uk/medicines/loratadine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clobetasol (Dermovate)",
+      "url": "https://www.nhs.uk/medicines/clobetasol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clobetasone (Eumovate)",
+      "url": "https://www.nhs.uk/medicines/clobetasone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clonazepam",
+      "url": "https://www.nhs.uk/medicines/clonazepam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clonidine",
+      "url": "https://www.nhs.uk/medicines/clonidine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clopidogrel",
+      "url": "https://www.nhs.uk/medicines/clopidogrel/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Clotrimazole",
+      "url": "https://www.nhs.uk/medicines/clotrimazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Co-amoxiclav",
+      "url": "https://www.nhs.uk/medicines/co-amoxiclav/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Co-beneldopa",
+      "url": "https://www.nhs.uk/medicines/co-beneldopa/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Co-codamol for adults",
+      "url": "https://www.nhs.uk/medicines/co-codamol-for-adults/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Co-codamol for children",
+      "url": "https://www.nhs.uk/medicines/co-codamol-for-children/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Co-dydramol",
+      "url": "https://www.nhs.uk/medicines/co-dydramol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Codeine",
+      "url": "https://www.nhs.uk/medicines/codeine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Colchicine",
+      "url": "https://www.nhs.uk/medicines/colchicine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Colecalciferol",
+      "url": "https://www.nhs.uk/medicines/colecalciferol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Continuous combined hormone replacement therapy (HRT) tablets, capsules and patches",
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/continuous-combined-hormone-replacement-therapy-hrt-tablets-capsules-and-patches/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Contraceptive injections (medroxyprogesterone)",
+      "url": "https://www.nhs.uk/medicines/contraceptive-injections-medroxyprogesterone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Corticosteroids, see Steroids",
+      "url": "https://www.nhs.uk/medicines/steroids/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cyanocobalamin",
+      "url": "https://www.nhs.uk/medicines/cyanocobalamin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Cyclizine",
+      "url": "https://www.nhs.uk/medicines/cyclizine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dapagliflozin",
+      "url": "https://www.nhs.uk/medicines/dapagliflozin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Decongestants",
+      "url": "https://www.nhs.uk/medicines/decongestants/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dexamethasone eye drops",
+      "url": "https://www.nhs.uk/medicines/dexamethasone-eye-drops/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dexamethasone tablets and liquid",
+      "url": "https://www.nhs.uk/medicines/dexamethasone-tablets-and-liquid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diazepam",
+      "url": "https://www.nhs.uk/medicines/diazepam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diclofenac",
+      "url": "https://www.nhs.uk/medicines/diclofenac/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Digoxin",
+      "url": "https://www.nhs.uk/medicines/digoxin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dihydrocodeine",
+      "url": "https://www.nhs.uk/medicines/dihydrocodeine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diltiazem",
+      "url": "https://www.nhs.uk/medicines/diltiazem/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Diphenhydramine",
+      "url": "https://www.nhs.uk/medicines/diphenhydramine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Dipyridamole",
+      "url": "https://www.nhs.uk/medicines/dipyridamole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Docusate",
+      "url": "https://www.nhs.uk/medicines/docusate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Domperidone",
+      "url": "https://www.nhs.uk/medicines/domperidone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Donepezil",
+      "url": "https://www.nhs.uk/medicines/donepezil/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Doxazosin",
+      "url": "https://www.nhs.uk/medicines/doxazosin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Doxycycline",
+      "url": "https://www.nhs.uk/medicines/doxycycline/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Duloxetine",
+      "url": "https://www.nhs.uk/medicines/duloxetine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Edoxaban",
+      "url": "https://www.nhs.uk/medicines/edoxaban/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Empagliflozin",
+      "url": "https://www.nhs.uk/medicines/empagliflozin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Enalapril",
+      "url": "https://www.nhs.uk/medicines/enalapril/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Eplerenone",
+      "url": "https://www.nhs.uk/medicines/eplerenone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Erythromycin",
+      "url": "https://www.nhs.uk/medicines/erythromycin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Escitalopram",
+      "url": "https://www.nhs.uk/medicines/escitalopram/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Esomeprazole",
+      "url": "https://www.nhs.uk/medicines/esomeprazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ezetimibe",
+      "url": "https://www.nhs.uk/medicines/ezetimibe/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Felodipine",
+      "url": "https://www.nhs.uk/medicines/felodipine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fentanyl",
+      "url": "https://www.nhs.uk/medicines/fentanyl/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ferrous fumarate",
+      "url": "https://www.nhs.uk/medicines/ferrous-fumarate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ferrous sulfate",
+      "url": "https://www.nhs.uk/medicines/ferrous-sulfate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fexofenadine",
+      "url": "https://www.nhs.uk/medicines/fexofenadine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Finasteride",
+      "url": "https://www.nhs.uk/medicines/finasteride/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Flucloxacillin",
+      "url": "https://www.nhs.uk/medicines/flucloxacillin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fluconazole",
+      "url": "https://www.nhs.uk/medicines/fluconazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fluoxetine",
+      "url": "https://www.nhs.uk/medicines/fluoxetine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fluticasone inhalers",
+      "url": "https://www.nhs.uk/medicines/fluticasone-inhalers/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fluticasone nasal spray and drops",
+      "url": "https://www.nhs.uk/medicines/fluticasone-nasal-spray-and-drops/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Folic acid",
+      "url": "https://www.nhs.uk/medicines/folic-acid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Furosemide",
+      "url": "https://www.nhs.uk/medicines/furosemide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fusidic acid (Fucidin)",
+      "url": "https://www.nhs.uk/medicines/fusidic-acid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Fybogel (ispaghula husk)",
+      "url": "https://www.nhs.uk/medicines/fybogel-ispaghula-husk/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gabapentin",
+      "url": "https://www.nhs.uk/medicines/gabapentin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gaviscon",
+      "url": "https://www.nhs.uk/medicines/gaviscon/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Gliclazide",
+      "url": "https://www.nhs.uk/medicines/gliclazide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Glyceryl trinitrate (GTN)",
+      "url": "https://www.nhs.uk/medicines/glyceryl-trinitrate-gtn/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hormone replacement therapy (HRT)",
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone buccal tablets",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-buccal-tablets/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone for piles and itchy bottom",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-for-piles-and-itchy-bottom/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone for skin",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-for-skin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone injections",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-injections/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone rectal foam",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-rectal-foam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydrocortisone tablets",
+      "url": "https://www.nhs.uk/medicines/hydrocortisone-tablets/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydroxocobalamin",
+      "url": "https://www.nhs.uk/medicines/hydroxocobalamin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hydroxychloroquine",
+      "url": "https://www.nhs.uk/medicines/hydroxychloroquine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Hyoscine hydrobromide",
+      "url": "https://www.nhs.uk/medicines/hyoscine-hydrobromide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ibuprofen and codeine",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-and-codeine-nurofen-plus/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ibuprofen for adults (Nurofen)",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-adults/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ibuprofen for children",
+      "url": "https://www.nhs.uk/medicines/ibuprofen-for-children/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Imodium, see Loperamide (Imodium)",
+      "url": "https://www.nhs.uk/medicines/loperamide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Indapamide",
+      "url": "https://www.nhs.uk/medicines/indapamide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Insulin",
+      "url": "https://www.nhs.uk/medicines/insulin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Irbesartan",
+      "url": "https://www.nhs.uk/medicines/irbesartan/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Isosorbide mononitrate and isosorbide dinitrate",
+      "url": "https://www.nhs.uk/medicines/isosorbide-mononitrate-dinitrate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Isotretinoin (Roaccutane)",
+      "url": "https://www.nhs.uk/medicines/isotretinoin-roaccutane/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ketoconazole",
+      "url": "https://www.nhs.uk/medicines/ketoconazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lactulose",
+      "url": "https://www.nhs.uk/medicines/lactulose/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lamisil, see Terbinafine (Lamisil)",
+      "url": "https://www.nhs.uk/medicines/terbinafine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lamotrigine",
+      "url": "https://www.nhs.uk/medicines/lamotrigine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lansoprazole",
+      "url": "https://www.nhs.uk/medicines/lansoprazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Latanoprost",
+      "url": "https://www.nhs.uk/medicines/latanoprost/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Laxatives",
+      "url": "https://www.nhs.uk/medicines/laxatives/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lercanidipine",
+      "url": "https://www.nhs.uk/medicines/lercanidipine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Letrozole",
+      "url": "https://www.nhs.uk/medicines/letrozole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Levetiracetam",
+      "url": "https://www.nhs.uk/medicines/levetiracetam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Levothyroxine",
+      "url": "https://www.nhs.uk/medicines/levothyroxine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Linagliptin",
+      "url": "https://www.nhs.uk/medicines/linagliptin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Liraglutide",
+      "url": "https://www.nhs.uk/medicines/liraglutide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lisinopril",
+      "url": "https://www.nhs.uk/medicines/lisinopril/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lithium",
+      "url": "https://www.nhs.uk/medicines/lithium/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lorazepam",
+      "url": "https://www.nhs.uk/medicines/lorazepam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Losartan",
+      "url": "https://www.nhs.uk/medicines/losartan/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Lymecycline",
+      "url": "https://www.nhs.uk/medicines/lymecycline/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Macrogol",
+      "url": "https://www.nhs.uk/medicines/macrogol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mebendazole (Ovex)",
+      "url": "https://www.nhs.uk/medicines/mebendazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mebeverine",
+      "url": "https://www.nhs.uk/medicines/mebeverine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Medroxyprogesterone tablets",
+      "url": "https://www.nhs.uk/medicines/medroxyprogesterone-tablets/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Melatonin",
+      "url": "https://www.nhs.uk/medicines/melatonin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Memantine",
+      "url": "https://www.nhs.uk/medicines/memantine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mesalazine",
+      "url": "https://www.nhs.uk/medicines/mesalazine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Metformin",
+      "url": "https://www.nhs.uk/medicines/metformin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Methadone",
+      "url": "https://www.nhs.uk/medicines/methadone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Methotrexate",
+      "url": "https://www.nhs.uk/medicines/methotrexate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Methylphenidate for adults",
+      "url": "https://www.nhs.uk/medicines/methylphenidate-adults/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Methylphenidate for children",
+      "url": "https://www.nhs.uk/medicines/methylphenidate-children/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Metoclopramide",
+      "url": "https://www.nhs.uk/medicines/metoclopramide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Metoprolol",
+      "url": "https://www.nhs.uk/medicines/metoprolol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Metronidazole",
+      "url": "https://www.nhs.uk/medicines/metronidazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mirabegron",
+      "url": "https://www.nhs.uk/medicines/mirabegron/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mirtazapine",
+      "url": "https://www.nhs.uk/medicines/mirtazapine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mometasone for skin",
+      "url": "https://www.nhs.uk/medicines/mometasone-for-skin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Mometasone nasal spray",
+      "url": "https://www.nhs.uk/medicines/mometasone-nasal-spray/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Montelukast",
+      "url": "https://www.nhs.uk/medicines/montelukast/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Morphine",
+      "url": "https://www.nhs.uk/medicines/morphine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Naproxen",
+      "url": "https://www.nhs.uk/medicines/naproxen/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nefopam",
+      "url": "https://www.nhs.uk/medicines/nefopam/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nicorandil",
+      "url": "https://www.nhs.uk/medicines/nicorandil/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nifedipine",
+      "url": "https://www.nhs.uk/medicines/nifedipine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nitrofurantoin",
+      "url": "https://www.nhs.uk/medicines/nitrofurantoin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nortriptyline",
+      "url": "https://www.nhs.uk/medicines/nortriptyline/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "NSAIDs",
+      "url": "https://www.nhs.uk/medicines/nsaids/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Nystatin",
+      "url": "https://www.nhs.uk/medicines/nystatin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Oestrogen tablets, patches, gel and spray",
+      "url": "https://www.nhs.uk/medicines/oestrogen-tablets-patches-gel-and-spray/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Olanzapine",
+      "url": "https://www.nhs.uk/medicines/olanzapine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Omeprazole",
+      "url": "https://www.nhs.uk/medicines/omeprazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Orlistat",
+      "url": "https://www.nhs.uk/medicines/orlistat/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Oxybutynin",
+      "url": "https://www.nhs.uk/medicines/oxybutynin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Oxycodone",
+      "url": "https://www.nhs.uk/medicines/oxycodone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pantoprazole",
+      "url": "https://www.nhs.uk/medicines/pantoprazole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Paracetamol for adults",
+      "url": "https://www.nhs.uk/medicines/paracetamol-for-adults/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Paroxetine",
+      "url": "https://www.nhs.uk/medicines/paroxetine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Peppermint oil",
+      "url": "https://www.nhs.uk/medicines/peppermint-oil/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Perindopril",
+      "url": "https://www.nhs.uk/medicines/perindopril/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Phenergan, see Promethazine (Phenergan)",
+      "url": "https://www.nhs.uk/medicines/promethazine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Phenoxymethylpenicillin",
+      "url": "https://www.nhs.uk/medicines/phenoxymethylpenicillin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pravastatin",
+      "url": "https://www.nhs.uk/medicines/pravastatin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pre-Exposure Prophylaxis (PrEP)",
+      "url": "https://www.nhs.uk/medicines/pre-exposure-prophylaxis-prep/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Prednisolone tablets and liquid",
+      "url": "https://www.nhs.uk/medicines/prednisolone-tablets-and-liquid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pregabalin",
+      "url": "https://www.nhs.uk/medicines/pregabalin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Prochlorperazine",
+      "url": "https://www.nhs.uk/medicines/prochlorperazine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Progesterone, see Utrogestan (micronised progesterone)",
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/utrogestan-micronised-progesterone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Propranolol",
+      "url": "https://www.nhs.uk/medicines/propranolol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Pseudoephedrine (Sudafed)",
+      "url": "https://www.nhs.uk/medicines/pseudoephedrine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Quetiapine",
+      "url": "https://www.nhs.uk/medicines/quetiapine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ramipril",
+      "url": "https://www.nhs.uk/medicines/ramipril/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ranitidine",
+      "url": "https://www.nhs.uk/medicines/ranitidine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Risperidone",
+      "url": "https://www.nhs.uk/medicines/risperidone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rivaroxaban",
+      "url": "https://www.nhs.uk/medicines/rivaroxaban/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Ropinirole",
+      "url": "https://www.nhs.uk/medicines/ropinirole/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Rosuvastatin",
+      "url": "https://www.nhs.uk/medicines/rosuvastatin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Salbutamol inhalers",
+      "url": "https://www.nhs.uk/medicines/salbutamol-inhaler/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Semaglutide",
+      "url": "https://www.nhs.uk/medicines/semaglutide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Senna",
+      "url": "https://www.nhs.uk/medicines/senna/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sequential combined HRT tablets and patches",
+      "url": "https://www.nhs.uk/medicines/sequential-combined-hrt-tablets-and-patches/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sertraline",
+      "url": "https://www.nhs.uk/medicines/sertraline/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sildenafil (Viagra)",
+      "url": "https://www.nhs.uk/medicines/sildenafil-viagra/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Simvastatin",
+      "url": "https://www.nhs.uk/medicines/simvastatin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sitagliptin",
+      "url": "https://www.nhs.uk/medicines/sitagliptin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sodium valproate",
+      "url": "https://www.nhs.uk/medicines/sodium-valproate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Solifenacin",
+      "url": "https://www.nhs.uk/medicines/solifenacin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sotalol",
+      "url": "https://www.nhs.uk/medicines/sotalol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Spironolactone",
+      "url": "https://www.nhs.uk/medicines/spironolactone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Statins",
+      "url": "https://www.nhs.uk/medicines/statins/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sulfasalazine",
+      "url": "https://www.nhs.uk/medicines/sulfasalazine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Sumatriptan",
+      "url": "https://www.nhs.uk/medicines/sumatriptan/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tadalafil",
+      "url": "https://www.nhs.uk/medicines/tadalafil/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tamsulosin",
+      "url": "https://www.nhs.uk/medicines/tamsulosin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Thiamine (vitamin B1)",
+      "url": "https://www.nhs.uk/medicines/thiamine-vitamin-b1/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tibolone",
+      "url": "https://www.nhs.uk/medicines/tibolone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Timolol eye drops",
+      "url": "https://www.nhs.uk/medicines/timolol-eye-drops/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tiotropium inhalers",
+      "url": "https://www.nhs.uk/medicines/tiotropium-inhalers/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tirzepatide",
+      "url": "https://www.nhs.uk/medicines/tirzepatide/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tolterodine",
+      "url": "https://www.nhs.uk/medicines/tolterodine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Topiramate",
+      "url": "https://www.nhs.uk/medicines/topiramate/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tramadol",
+      "url": "https://www.nhs.uk/medicines/tramadol/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Tranexamic acid",
+      "url": "https://www.nhs.uk/medicines/tranexamic-acid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Trazodone",
+      "url": "https://www.nhs.uk/medicines/trazodone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Trimethoprim",
+      "url": "https://www.nhs.uk/medicines/trimethoprim/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Vaginal oestrogen",
+      "url": "https://www.nhs.uk/medicines/hormone-replacement-therapy-hrt/vaginal-oestrogen/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Valproic acid",
+      "url": "https://www.nhs.uk/medicines/valproic-acid/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Valsartan",
+      "url": "https://www.nhs.uk/medicines/valsartan/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Varenicline",
+      "url": "https://www.nhs.uk/medicines/varenicline/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Venlafaxine",
+      "url": "https://www.nhs.uk/medicines/venlafaxine/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Verapamil",
+      "url": "https://www.nhs.uk/medicines/verapamil/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Warfarin",
+      "url": "https://www.nhs.uk/medicines/warfarin/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Zolpidem",
+      "url": "https://www.nhs.uk/medicines/zolpidem/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    },
+    {
+      "title": "Zopiclone",
+      "url": "https://www.nhs.uk/medicines/zopiclone/",
+      "category": "Medicines",
+      "publisher": "NHS"
+    }
+  ]
+}

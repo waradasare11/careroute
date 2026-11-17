@@ -1,0 +1,11 @@
+import {beforeEach,afterEach,describe,it,expect,vi} from 'vitest';
+beforeEach(()=>{localStorage.clear();vi.resetModules();Object.defineProperty(navigator,'onLine',{configurable:true,value:true});});
+afterEach(()=>{Object.defineProperty(navigator,'onLine',{configurable:true,value:true});});
+describe('demo persistence and access',()=>{
+it('saves a new plan and reloads it',async()=>{const s=await import('./store');s.getSnapshot();const r=s.demoActions.createJourney({patientId:'p_asha',specialty:'Test follow-up',summary:'Fictional',coordinatorId:'c_meera'});expect(r.ok).toBe(true);s.reloadDemoFromStorage();const state=s.getSnapshot();expect(state.status==='ready'&&state.data.journeys.some(j=>j.specialty==='Test follow-up')).toBe(true);});
+it('rejects patient writes',async()=>{const s=await import('./store');s.getSnapshot();s.setPrefs({role:'patient'});expect(s.demoActions.createJourney({patientId:'p_asha',specialty:'Test',summary:'',coordinatorId:'c_meera'}).ok).toBe(false);});
+it('limits patient exports to the selected fictional patient',async()=>{const s=await import('./store');s.getSnapshot();s.setPrefs({role:'patient',patientId:'p_asha'});const r=s.demoActions.exportJson();expect(r.ok).toBe(true);if(r.ok){const exported=JSON.parse(r.value);expect(exported.patients).toHaveLength(1);expect(exported.patients[0].id).toBe('p_asha');expect(exported.journeys.every((j:{patientId:string})=>j.patientId==='p_asha')).toBe(true);}});
+it('rejects writes while offline',async()=>{const s=await import('./store');s.getSnapshot();Object.defineProperty(navigator,'onLine',{configurable:true,value:false});expect(s.demoActions.createJourney({patientId:'p_asha',specialty:'Test',summary:'',coordinatorId:'c_meera'}).ok).toBe(false);});
+it('returns an error for damaged nested saved data',async()=>{const s=await import('./store');s.getSnapshot();const data=JSON.parse(localStorage.getItem(s.DATA_KEY)!);data.journeys[0].appointments=null;localStorage.setItem(s.DATA_KEY,JSON.stringify(data));s.reloadDemoFromStorage();expect(s.getSnapshot().status).toBe('error');});
+it('keeps deletion across reloads',async()=>{const s=await import('./store');s.getSnapshot();s.demoActions.deleteDemo();s.reloadDemoFromStorage();expect(s.getSnapshot().status).toBe('deleted');});
+});

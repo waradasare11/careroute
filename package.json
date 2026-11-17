@@ -1,0 +1,43 @@
+{
+  "name": "careroute",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "android:sync": "npm run build && cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/share": "^8.0.3",
+    "@fontsource/dm-sans": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2",
+    "@playwright/test": "1.66.0-alpha-1794252756000",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^4.7.0",
+    "jsdom": "^26.1.0",
+    "typescript": "^5.9.3",
+    "vite": "^6.4.1",
+    "vite-plugin-pwa": "^1.0.3",
+    "vitest": "^5.1.0"
+  },
+  "overrides": {
+    "workbox-build": {
+      "glob": "^14.0.6"
+    }
+  }
+}
