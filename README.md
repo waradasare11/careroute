@@ -2,7 +2,7 @@
 
 A website and Android demonstration for coordinating planned hospital visits before a family travels. The app links reports, documents and appointments, identifies missing steps, and asks a coordinator to review changes.
 
-**Release 0.2.0: fictional records only.** This is a working local-data demonstration, not a connected hospital service. It does not provide medical clearance, book appointments, send messages or securely manage real medical records. Role switching demonstrates the experience; it is not authentication.
+CareRoute includes a hosted personal planner for visit logistics and a separate demo with fictional patient and clinician records. Sign in to save personal visits across devices. Use Explore the demo to try simulated hospital workflows.
 
 This release adds light/dark/system themes, a redesigned explanatory landing page, consultation notes, clinician-entered prescription drafts, patient visit briefs, follow-up tasks, a source-linked Pune directory and first-aid references. See `docs/USER-GUIDE.md` for each workflow and `docs/SOURCES.md` for coverage and provenance. Prescription outputs are explicitly unsigned drafts, not valid for dispensing; no medicine or dose is recommended by the software.
 
@@ -85,3 +85,8 @@ Third-party code and fonts retain their own licences. No patent, clinical valida
 ## Release 0.3 reference expansion
 Includes a searchable NHS topic-link index and source-update access. See docs/MEDICAL-INFORMATION-AUDIT.md for the precise scope, checks, gaps and update workflow. No comprehensive medical knowledge or automatic clinical-update guarantee is made.
 
+## Connected visit planner
+
+The hosted site uses Sites authentication and a D1 database. The landing page links to My visits for signed-in users. The planner saves visit labels, facilities, dates, times, checklists and statuses. It also supports JSON export and deletion.
+
+Run `node --test worker/account.test.mjs` to verify the API against SQLite. Run `npm run build:site` to package the worker from the frontend build. The worker must run behind the Sites authenticated dispatcher and requires the DB binding and the SQL migration in drizzle/. Local Vite and standalone Android builds can open the hosted sign-in link.

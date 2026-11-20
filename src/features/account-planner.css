@@ -1,0 +1,27 @@
+.account-link { white-space: nowrap; }
+.account-welcome { max-width: 570px; margin: 25px auto 55px; padding: clamp(24px, 5vw, 52px); }
+.account-welcome h1 { margin-top: 20px; }
+.account-welcome .button { margin: 10px 8px 0 0; }
+.account-page-heading, .account-footer, .account-visit { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+.account-page-heading { margin: 16px 0 24px; }
+.account-page-heading .eyebrow { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+.account-page-heading p { overflow-wrap: anywhere; margin-bottom: 0; }
+.account-form { margin: 22px 0; }
+.account-form fieldset { border: 0; min-width: 0; padding: 0; margin: 0; }
+.account-fields { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 18px; }
+.account-form h3 { margin: 12px 0 8px; }
+.account-form .actions { margin-top: 18px; }
+.account-empty { text-align: center; margin: 22px 0; }
+.account-empty h2 { margin: 10px 0 4px; }
+.account-empty svg { color: var(--brand-ink); }
+.account-visits { display: grid; gap: 12px; margin: 18px 0; }
+.account-visit h2 { margin: 6px 0 2px; overflow-wrap: anywhere; }
+.account-visit p { margin-bottom: 0; overflow-wrap: anywhere; }
+.account-visit > div { min-width: 0; }
+.account-footer { padding: 16px 0; }
+@media (max-width: 620px) {
+  .account-fields { grid-template-columns: 1fr; }
+  .account-page-heading .actions, .account-visit .actions { width: 100%; }
+  .landing-v2 header .account-link { min-height: 34px; padding: 6px 8px; font-size: 11px; }
+  .landing-v2 header .account-link svg { display: none; }
+}
